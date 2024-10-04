@@ -7,5 +7,5 @@ document.getElementById("closemenu").addEventListener("click", () => {
 
 function test() {
     console.log("test");
-
 }
+//change
